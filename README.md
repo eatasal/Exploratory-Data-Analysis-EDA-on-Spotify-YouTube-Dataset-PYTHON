@@ -10,7 +10,7 @@ This project involves performing Exploratory Data Analysis (EDA) on a dataset co
 - Merging data from Spotify and YouTube to create a unified dataset for analysis.
 
 ### 2. Exploratory Data Analysis (EDA):
-- Analyzing key metrics such as song popularity, video engagement, and user demographics.
+- Analyzing key metrics such as song and artist popularity, video engagement and trends.
 - Visualizing data trends and patterns using various plotting techniques.
 - Identifying correlations between different features in the dataset.
 
